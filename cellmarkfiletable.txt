@@ -1,0 +1,11 @@
+SeLa-S3	H3k09me3	H3k09me3.bam	Control.bam
+SeLa-S3	H3k36me3	H3k36me3.bam	Control.bam
+SeLa-S3	H3k4me2	H3k4me2.bam	Control.bam
+SeLa-S3	H3k4me3	H3k4me3.bam	Control.bam
+SeLa-S3	H3k9ac	H3k9ac.bam	Control.bam
+SeLa-S3	H3k27ac	H3k27ac.bam	Control.bam
+SeLa-S3	H2afz	H2afz.bam	Control.bam
+SeLa-S3	H3k79me2	H3k79me2.bam	Control.bam
+SeLa-S3	H3k04me1	H3k04me1.bam	Control.bam
+
+
