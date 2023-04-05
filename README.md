@@ -20,11 +20,13 @@
 <img width="761" alt="image" src="https://user-images.githubusercontent.com/95280619/230231306-8abca543-ecfb-4a1f-99f5-69d29fc7e811.png">
 
 ## Картинки из выдачи ChromHMM
-<img width="450" alt="image" src="https://user-images.githubusercontent.com/95280619/230231474-234e6011-71e6-4284-8b65-e369d9e5c512.png">
-<img width="450" alt="image" src="https://user-images.githubusercontent.com/95280619/230231500-f98a73b3-72da-4cc8-9c3c-b36ebed26309.png">
-![image](https://user-images.githubusercontent.com/95280619/230231833-1403f570-fb08-4527-aa00-1b0c8540f3d1.png)
-![image](https://user-images.githubusercontent.com/95280619/230231862-1e2a1a6d-2d34-4381-b6bf-cfb03379c58a.png)
-![image](https://user-images.githubusercontent.com/95280619/230231872-6919e712-e6c4-4c1e-869d-fb7985056cf5.png)
+__В коде была допущена опечатка, из-за чего название клеточной линии в файлах указано не то. Это не влияет на результаты.__\
+\
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/95280619/230231474-234e6011-71e6-4284-8b65-e369d9e5c512.png">\
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/95280619/230231500-f98a73b3-72da-4cc8-9c3c-b36ebed26309.png">\
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/95280619/230231833-1403f570-fb08-4527-aa00-1b0c8540f3d1.png">\
+<img width="634" alt="image" src="https://user-images.githubusercontent.com/95280619/230232706-26d3337a-8245-4277-911f-45289aaeeef3.png">\
+<img width="634" alt="image" src="https://user-images.githubusercontent.com/95280619/230232731-665a2bfc-56b4-4457-8e81-50c767f89674.png">\
 
 ## Табличка с номерами эпигенетических типов
 ## UCSC GenomeBrowser
