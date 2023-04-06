@@ -33,3 +33,5 @@ __В коде была допущена опечатка, из-за чего н�
 <img width="983" alt="image" src="https://user-images.githubusercontent.com/95280619/230237038-43ef0b65-917b-4463-826b-7f37499f8392.png">
 <img width="1283" alt="image" src="https://user-images.githubusercontent.com/95280619/230238774-158254f1-14d3-48d0-bb00-18df1c4adbaf.png">
 
+## Бонусное задание
+Выполнение содержится в ноутбуке colab'a.
